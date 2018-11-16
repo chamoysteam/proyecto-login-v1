@@ -2,7 +2,7 @@
 <html lang="es" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Mi Primer Git</title>
+    <title</title>
   </head>
   <body>
     <h1>
